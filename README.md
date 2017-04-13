@@ -58,7 +58,7 @@ Coming soon.
 
 ### Network schema
 
-![Dawn diagram 0.1](https://github.com/dawn-network/white-paper/blob/master/images/Dawn_diagram.svg?raw=true)
+![Dawn diagram 0.1](https://github.com/dawn-network/white-paper/blob/master/images/Dawn_diagram.png?raw=true)
 
 ### Blockchains
 
