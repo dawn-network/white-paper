@@ -156,13 +156,15 @@ Contain a set of posts and accounts.
 
  * A post contain small meta-data and a list of entries of File-chain type.
  * A post can be public or private (avaible with a key).
- * A post have a value (`pv`) in function of `[((user_reputation / 2) x eyeball_time) x view_number]) ?`, the user must be logged to be counted and have a limited self-regenerating interaction bar `?`.
+ * A post have a value (`pw`) in function of `vote(-100% to +100%), user_reputation, eyeball_time ?`, algorithm must still be optimized, the user must be logged to be counted and have a limited self-regenerating interaction bar `?`.
  * A post split it's value into 1+ accounts, this split occurs every X Days.
  * An account have a value and a list of transactions only visible for the account holder.
 
+![pv/pw](https://github.com/dawn-network/white-paper/blob/master/images/curve.png?raw=true)
+
 90% of the amount goes into content creators, 10% into entries validators.
 
-The reward pool distribution curve of the first Glog chain over posts `pv` is at `2/3` linear and `1/3` exponential.
+The reward pool distribution curve of the first Glog chain over posts `pw`.
 
 Work similarly as [Steem](https://steem.io).
 
