@@ -184,11 +184,11 @@ Cryptocurrency enabled blockchain managing ifps links, debiting/crediting accoun
 
 JSON chain work similarly as File chain except that files are stored in RAM and limited in size.
 
-Work similarly as [Filecoin](http://filecoin.io/)/[Storj](https://storj.io/).
+Work similarly as [Filecoin](http://filecoin.io/)/[Storj](https://storj.io/)/[Shift](https://www.shiftnrg.org/).
 
 ### Client applications
 
-Client use [WebTorrent](https://webtorrent.io/)/[WebRTC](https://webrtc.org/) part of [libp2p](https://github.com/libp2p/libp2p) to seed recent files they have viewed and for P2P communication. Providing a real-time scalable bandwith capacity.
+Client use [WebTorrent](https://webtorrent.io/)/[WebRTC](https://webrtc.org/) part of [libp2p](https://github.com/libp2p/libp2p) to seed recent files they have viewed and for P2P communication. Providing a real-time scalable bandwidth capacity.
 
 Client interact with all blockchains.
 
